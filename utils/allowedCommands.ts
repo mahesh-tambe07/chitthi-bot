@@ -1,4 +1,4 @@
-// src/utils/allowedCommands.ts
+
 const allowedCommands: { [key: string]: string } = {
   "open notepad": "start notepad",
   "open chrome": "start chrome",
