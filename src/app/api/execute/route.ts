@@ -1,4 +1,4 @@
-// chitthi bot
+
 import { exec } from "child_process";
 import { NextResponse } from "next/server";
 //import allowedCommands from "@/utils/allowedCommands";
